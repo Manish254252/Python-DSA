@@ -51,7 +51,7 @@ def find_path(maze, stdscr):
         row, col = current_pos
         stdscr.clear()
         print_maze(maze, stdscr, path)
-        time.sleep(0.3)
+        time.sleep(0.2)
         stdscr.refresh()
         if maze[row][col] == end:
             return path
