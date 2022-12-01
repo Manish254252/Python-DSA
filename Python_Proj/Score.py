@@ -8,7 +8,7 @@ url = "https://weatherapi-com.p.rapidapi.com/sports.json"
 querystring = {"q": "London"}
 
 headers = {
-    "X-RapidAPI-Key": "5c1b4bb8bemsh74fb3755d24a6dap113052jsn7c869649c51b",
+    "X-RapidAPI-Key": "USE API KEY",
     "X-RapidAPI-Host": "weatherapi-com.p.rapidapi.com"
 }
 
